@@ -1,1 +1,2 @@
-console.log("Hola mundo!");
+const logger = require("./logger");
+logger.info("Usando o padrao CommondJS!");
